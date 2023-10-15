@@ -1,6 +1,2 @@
-{
-	"mod": {
-		"yt": "https://verification-b6vg-5xmg.onrender.com",
-		"g": "https://verifyminecraft.onrender.com"
-	}
-}
+https://verification-b6vg-5xmg.onrender.com | https://verifyminecraft.onrender.com
+
